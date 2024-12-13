@@ -49,7 +49,8 @@ public class TodoAdapter extends RecyclerView.Adapter<TodoAdapter.ViewHolder>{
         holder.textTitle.setText(todo.getTitle());
         holder.textDescription.setText(todo.getDescription());
         holder.textTodoType.setText("Type: " + todo.getTodoType());
-        holder.textPriority.setText("Priority: " + todo.getPriority());
+        holder.textPriority.setText("Priority: " + todo.getPriority().replace("Priority ", ""));
+//        holder.textPriority.setText("Priority: " + todo.getPriority());
 //        holder.textDate.setText("Date: " + todo.getDate());
 
         try {

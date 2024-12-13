@@ -95,7 +95,6 @@ public class GetActivity extends AppCompatActivity {
                         }
                     });
 
-                    // Set up RecyclerView with the adapter
                     todoAdapter = new TodoAdapter(todoList, getApplicationContext());
                     GetActivity.this.todoList.setAdapter(todoAdapter);
                 }

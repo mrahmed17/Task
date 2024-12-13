@@ -3,12 +3,12 @@
 
     <string-array name="todo_types">
         <item>Select Todo Type</item>
-        <item>Study</item>
-        <item>Outing</item>
-        <item>Date</item>
-        <item>Meetup</item>
-        <item>Shopping</item>
-        <item>Tour</item>
+        <item>1. Study</item>
+        <item>2. Outing</item>
+        <item>3. Date</item>
+        <item>4. Meetup</item>
+        <item>5. Shopping</item>
+        <item>6. Tour</item>
     </string-array>
 
     <string name="required_field">This field is required</string>
