@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Ultimate Todo</string>
+
+    <string-array name="todo_types">
+        <item>Select Todo Type</item>
+        <item>1. Study</item>
+        <item>2. Outing</item>
+        <item>3. Date</item>
+        <item>4. Meetup</item>
+        <item>5. Shopping</item>
+        <item>6. Tour</item>
+    </string-array>
+
+    <string name="required_field">This field is required</string>
+    <string name="select_priority">Select your priority level</string>
+    <string name="splash_image_description">Logic Software Ltd</string>
+    <string name="heading_title">Create New Todo</string>
+    <string name="editing_heading_title">Edit Todo</string>
+    <string name="todo_heading_title">Todo List</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+
+    <string name="todo_type">Select Todo Type</string>
+    <string name="todo_priority_high">Priority High</string>
+    <string name="todo_priority_medium">Priority Medium</string>
+    <string name="todo_priority_low">Priority Low</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="todo_created">Todo "%1$s" created successfully.</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="todo_created_failure">Failed to create Todo</string>
+
+    <string name="card_title">Title</string>
+    <string name="card_todo_description">Todo Description</string>
+    <string name="card_type_study">Type: Study</string>
+    <string name="card_priority_level">Priority: High</string>
+    <string name="card_date_12_dec_2024">Date: 12 Dec 2024</string>
+
+    <string name="add_todo_description">New a ToDo</string>
+    <string name="day_mode">Day</string>
+    <string name="night_mode">Night</string>
+    <string name="delete_todo">Delete Todo</string>
+
+</resources>

@@ -1,0 +1,16 @@
+{
+  "todo1": {
+    "title": "Grocery Shopping",
+    "description": "Buy milk, eggs, bread",
+    "priority": "High",
+    "date": "2024-12-18",
+    "todoType": "Personal"
+  },
+  "todo2": {
+    "title": "Book Doctor Appointment",
+    "description": "Schedule a checkup",
+    "priority": "Medium",
+    "date": "2024-12-20",
+    "todoType": "Health"
+  }
+}
